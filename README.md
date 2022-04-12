@@ -1,1 +1,1 @@
-# neural-networks-from-first-principles
+# Deep Learning from First Principles
